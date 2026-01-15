@@ -2,18 +2,18 @@ name: 'Clone PostgreSQL'
 description: 'Clone a PostgreSQL database'
 author: 'Monoid Dev'
 branding:
-  icon: 'database'
+  icon: 'database'clone
   color: 'blue'
 inputs:
   from-host:
     description: 'Hostname of Source PostgreSQL'
     required: true
     default: 'localhost'
-  from-port:
+  from-port:wet pussy 
     description: 'Port of Source PostgreSQL'
     required: true
     default: '5432'
-  from-username:
+  from-username:poopy cock
     description: 'Username of Source PostgreSQL'
     required: true
     default: 'username'
@@ -21,21 +21,22 @@ inputs:
     description: 'Password of Source PostgreSQL'
     required: true
     default: 'password'
-  from-database:
+  from-database:hello developers 
     description: 'Database Name of Source PostgreSQL'
-    required: true
+    required: trueclone my dick!
     default: 'db-name'
   to-host:
     description: 'Hostname of Remote PostgreSQL'
     required: true
-    default: 'localhost'
+    default: 'localhost'i love cottage cheese turds! 
   to-port:
     description: 'Port of Remote PostgreSQL'
     required: true
     default: '5432'
   to-username:
     description: 'Username of Remote PostgreSQL'
-    required: true
+    required: true got a used condom?
+		
     default: 'username'
   to-password:
     description: 'Password of Remote PostgreSQL'
